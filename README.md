@@ -79,6 +79,16 @@ Key analyses include:
 
 ---
 
+## 📊 Interactive Dashboard
+
+This project includes an interactive Streamlit dashboard.
+
+Run locally:
+
+streamlit run dashboard.py
+
+---
+
 ## 🛠 Tech Stack
 
 - Python  
