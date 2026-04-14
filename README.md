@@ -37,6 +37,10 @@ Each project covers the full analytics cycle: data cleaning → exploration → 
 | 🇬🇧 UK dominance | The UK contributes the largest share of revenue |
 | 💎 High-value customers | A small customer segment drives a disproportionate share of revenue |
 
+#### 📊 Visualizations
+![Monthly Revenue](reports/figures/monthly_revenue.png)
+![Top Products](reports/figures/top_products.png)
+
 #### Business Recommendations
 - Focus marketing campaigns on high-value customer segments
 - Increase stock levels for top-performing products before Q4
