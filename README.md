@@ -1,127 +1,108 @@
-# 🛒 E-Commerce Sales Analysis
+# 📊 Business Analytics Portfolio — Stasy Kuzeva
 
-## 📌 Project Overview
-
-This project analyzes real-world e-commerce transaction data to uncover sales trends, customer behavior, and revenue drivers.
-
-The goal is to transform raw transactional data into actionable business insights that can support decision-making in marketing, sales, and operations.
+**Data Analyst | Business Intelligence | Financial Reporting**  
+📍 Bulgaria &nbsp;|&nbsp; 📧 [your.email@example.com](mailto:kuzevastasy@gmail.com) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/stanislava-kuzeva-b1757241/)
 
 ---
 
-## 🎯 Business Objectives
+## 👋 About This Portfolio
 
-This analysis aims to answer:
+This repository contains end-to-end business analytics case studies built with Python.  
+Each project covers the full analytics cycle: data cleaning → exploration → insight generation → business recommendations.
 
+**Core skills demonstrated:** data wrangling, KPI tracking, customer segmentation, revenue analysis, interactive dashboards.
+
+---
+
+## 📁 Projects
+
+### 🛒 E-Commerce Sales Analysis
+> *Uncovering revenue drivers, customer behavior, and seasonal patterns from 500k+ real transactions*
+
+**Dataset:** UK-based online retailer (Kaggle, 2010–2011) — ~500,000 transactions  
+**Tech stack:** Python · pandas · matplotlib · Streamlit · Jupyter Notebook
+
+#### Business Questions Answered
 - When does the business generate the most revenue?
-- Which products drive the majority of sales?
+- Which products drive the majority of sales (Pareto principle)?
 - Who are the most valuable customers?
 - How does performance vary by country?
 - Are there signs of seasonality?
 
----
+#### Key Findings
+| Finding | Detail |
+|---|---|
+| 📈 Strong Q4 seasonality | Revenue peaks significantly in October–December |
+| 🛍 Pareto effect | ~20% of products generate ~80% of total sales |
+| 🇬🇧 UK dominance | The UK contributes the largest share of revenue |
+| 💎 High-value customers | A small customer segment drives a disproportionate share of revenue |
 
-## 📊 Dataset
+#### Business Recommendations
+- Focus marketing campaigns on high-value customer segments
+- Increase stock levels for top-performing products before Q4
+- Explore growth opportunities in high-performing international markets
 
-Source: Kaggle E-Commerce dataset  
-Contains ~500k transactions from a UK-based online retailer (2010–2011).
-
-Main fields:
-
-- InvoiceNo
-- Product Description
-- Quantity
-- InvoiceDate
-- UnitPrice
-- CustomerID
-- Country
-
----
-
-## 🧹 Data Cleaning
-
-Steps performed:
-
-- Removed missing CustomerID records  
-- Filtered out returns (negative quantities)  
-- Removed invalid prices  
-- Converted dates to datetime format  
-- Created TotalPrice metric  
+#### 📊 Dashboard
+```bash
+# Run locally
+pip install -r requirements.txt
+streamlit run app/dashboard.py
+```
 
 ---
 
-## 📈 Exploratory Analysis
+## 🗂 Repository Structure
 
-Key analyses include:
-
-- Monthly revenue trends  
-- Top-selling products  
-- Revenue by country  
-- Customer revenue ranking  
-- RFM customer analysis  
-
----
-
-## 🔍 Key Findings
-
-- 📈 Revenue peaks in Q4, showing strong seasonality  
-- 🛍 ~20% of products generate ~80% of sales  
-- 🇬🇧 The UK dominates revenue contribution  
-- 💎 A small group of customers drives a large share of revenue  
-
----
-
-## 💡 Business Recommendations
-
-- Focus marketing campaigns on high-value customers  
-- Increase stock for top-performing products  
-- Prepare for demand spikes in Q4  
-- Explore expansion in high-performing countries  
-
----
-
-## 📊 Interactive Dashboard
-
-This project includes an interactive Streamlit dashboard.
-
-Run locally:
-
-streamlit run dashboard.py
+```
+Business-Analytics-Portfolio/
+│
+├── data/                   # Raw and processed datasets
+├── notebooks/              # Jupyter notebooks (analysis)
+├── app/                    # Streamlit dashboard
+├── src/                    # Reusable Python modules
+├── reports/
+│   └── figures/            # Exported charts and visualizations
+├── requirements.txt
+└── README.md
+```
 
 ---
 
 ## 🛠 Tech Stack
 
-- Python  
-- pandas  
-- matplotlib  
-- Jupyter Notebook  
-
----
-
-## 📂 Project Structure
-
-data/
-
-notebooks/
-
-src/
-
-reports/
-
-README.md
-
+| Tool | Usage |
+|---|---|
+| Python | Core language |
+| pandas | Data cleaning and transformation |
+| matplotlib | Static visualizations |
+| Streamlit | Interactive dashboard |
+| Jupyter Notebook | Exploratory analysis |
 
 ---
 
 ## 🚀 How to Run
 
-1. Clone the repo  
-2. Install requirements:
+```bash
+# 1. Clone the repository
+git clone https://github.com/KuzevaStasy/Business-Analytics-Portfolio.git
+cd Business-Analytics-Portfolio
 
+# 2. Install dependencies
 pip install -r requirements.txt
 
+# 3. Run the notebooks
+jupyter notebook notebooks/
 
-3. Run notebooks in order
+# 4. Or launch the dashboard
+streamlit run app/dashboard.py
+```
 
 ---
 
+## 📬 Contact
+
+Feel free to reach out if you have questions about any project or want to collaborate.
+
+- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/stanislava-kuzeva-b1757241/))
+- **Email:** [your.email@example.com](mailto:kuzevastasy@gmail.com)
+- **GitHub:** [@KuzevaStasy](https://github.com/KuzevaStasy)
