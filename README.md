@@ -103,6 +103,6 @@ streamlit run app/dashboard.py
 
 Feel free to reach out if you have questions about any project or want to collaborate.
 
-- **LinkedIn:** [(https://www.linkedin.com/in/stanislava-kuzeva-b1757241/)]((https://www.linkedin.com/in/stanislava-kuzeva-b1757241/))
+- **LinkedIn:** [https://www.linkedin.com/in/stanislava-kuzeva-b1757241/]((https://www.linkedin.com/in/stanislava-kuzeva-b1757241/))
 - **Email:** [kuzevastasy@gmail.com](mailto:kuzevastasy@gmail.com)
 - **GitHub:** [@KuzevaStasy](https://github.com/KuzevaStasy)
