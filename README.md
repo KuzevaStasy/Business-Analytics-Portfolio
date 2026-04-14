@@ -1,7 +1,7 @@
 # 📊 Business Analytics Portfolio — Stasy Kuzeva
 
 **Data Analyst | Business Intelligence | Financial Reporting**  
-📍 Bulgaria &nbsp;|&nbsp; 📧 [your.email@example.com](mailto:kuzevastasy@gmail.com) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/stanislava-kuzeva-b1757241/)
+📍 Bulgaria &nbsp;|&nbsp; 📧 [kuzevastasy@gmail.com](mailto:kuzevastasy@gmail.com) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/stanislava-kuzeva-b1757241/)
 
 ---
 
@@ -104,5 +104,5 @@ streamlit run app/dashboard.py
 Feel free to reach out if you have questions about any project or want to collaborate.
 
 - **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/stanislava-kuzeva-b1757241/))
-- **Email:** [your.email@example.com](mailto:kuzevastasy@gmail.com)
+- **Email:** [kuzevastasy@gmail.com](mailto:kuzevastasy@gmail.com)
 - **GitHub:** [@KuzevaStasy](https://github.com/KuzevaStasy)
