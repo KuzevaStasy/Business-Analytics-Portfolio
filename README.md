@@ -1,4 +1,4 @@
-# 📊 Business Analytics Portfolio — Stasy Kuzeva
+# 📊 Business Analytics Portfolio
 
 **Data Analyst | Business Intelligence | Financial Reporting**  
 📍 Bulgaria &nbsp;|&nbsp; 📧 [kuzevastasy@gmail.com](kuzevastasy@gmail.com) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/stanislava-kuzeva-b1757241/)
